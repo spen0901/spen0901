@@ -5,5 +5,5 @@ Solution Architect focused on Cloud Infrastructure and Artificial Intelligence. 
 ---
 ## 📂 [Explore my Cloud & AI Project Hub](https://github.com/spen0901/PendyalsAIHub)
 
-* [LinkedIn](your-linkedin-profile)
+* [LinkedIn]www.linkedin.com/in/subrahmanya-pendyala-33399110
 * [Personal Portfolio/Blog](your-website-if-any)
