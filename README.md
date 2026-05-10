@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Subrahmanya Pendyala 👋
 
-<!--
-**spen0901/spen0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solution Architect focused on Cloud Infrastructure and Artificial Intelligence. This profile serves as a repository for my ongoing projects and technical presentations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured AI & Cloud Projects
+
+### 🔹 [Project Name 1: e.g., Azure-Based Fraud Detection]
+* **Description:** A brief 2-sentence overview of the architecture and AI models used.
+* **Tech Stack:** Python, Azure Functions, TensorFlow.
+* **[Link to Project Repo](your-link-here)**
+
+### 🔹 [Project Name 2: e.g., Micro-App Architecture]
+* **Description:** How I implemented a scalable micro-frontend for enterprise applications.
+* **Tech Stack:** React, Kafka, Docker.
+* **[Link to Project Repo](your-link-here)**
+
+---
+
+## 📺 AI Insights: 15-Minute Technical Series
+*Explaining complex AI concepts in simple terms.*
+
+| Topic | Presentation | Duration |
+| :--- | :--- | :--- |
+| Intro to Neural Networks | [![Watch](https://img.shields.io/badge/YouTube-Watch-red?style=flat&logo=youtube)](YOUR_VIDEO_LINK) | 12 min |
+| Cloud-Native AI Design | [![Watch](https://img.shields.io/badge/YouTube-Watch-red?style=flat&logo=youtube)](YOUR_VIDEO_LINK) | 15 min |
+
+---
+
+## 🛠️ Tech Stack & Skills
+* **Cloud:** Azure, GCP
+* **AI/ML:** Predictive Modeling, Generative AI, Linear Programming
+* **DevOps:** GitHub Actions, Docker, Kubernetes
+
+---
+
+## 📫 Connect with me
+* [LinkedIn](your-linkedin-profile)
+* [Personal Portfolio/Blog](your-website-if-any)
